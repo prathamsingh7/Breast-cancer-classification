@@ -1,6 +1,6 @@
 # Problem statement
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Breast-cancer-classification/main/Images/breast-cancer-facts.jpg?token=GHSAT0AAAAAACAFXHHZ5XGZ7WTJTMN2EYB4ZBAG4ZQ">
+  <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/breast-cancer-facts.jpg">
 </p>
 
 Breast cancer is the most common form of cancer in women, and invasive ductal carcinoma (IDC) is the most common form of breast cancer. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error.
@@ -17,7 +17,7 @@ The original dataset consisted of 162 whole mount slide images of Breast Cancer 
 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images). 
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Breast-cancer-classification/main/Images/Dataset.png?token=GHSAT0AAAAAACAFXHHZ35P34VCO5FVR4VXYZBAG2GQ">
+  <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/Dataset.png">
 ">
 </p>
 
