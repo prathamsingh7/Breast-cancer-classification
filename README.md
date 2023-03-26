@@ -18,7 +18,6 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/paultimothy
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/Dataset.png">
-">
 </p>
 
 # Techstack Used
